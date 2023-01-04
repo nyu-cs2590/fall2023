@@ -5,7 +5,7 @@ description: >-
     Course policies and information.
 ---
 
-# About
+# CSCI-GA.2590 Natural Language Processing, Spring 2022 
 {:.no_toc}
 
 ## Table of contents
@@ -18,16 +18,39 @@ description: >-
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+How can we teach machines to understand human languages so that they can answer queries, summarize dense information, or hold a conversation with us? The primary goal of this course is to provide students with the principles and state-of-the-art tools needed to solve a variety of NLP problems. We will focus on three paradigms in the field of NLP: supervised learning, pretrain-then-finetune, and the most recent large language models. Students are expected to read research papers and gain hands-on experience through coding assignments and course projects.
 
-## Lecture
+## Prerequisites
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+Students are expected to have a solid mathematics background and strong programming skills.
 
-## Resources
+- Probability, statistics, linear algebra (DS-GA.1002, MATH-UA.140, MATH-UA.235)
+- Algorithms and data structure (CSCI-UA.102)
+- Basic knowledge in machine learning (DS-GA.1003, CSCI-UA.0473). We will not spend a significant amount of time on machine learning basics so some prior exposure to the supervised learning framework (e.g., loss functions, SGD) is expected.
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+## Logistics
 
-## Assignments
+- **Lectures**: Tue 4:55pm--6:55pm, CIWW 101
+- **Office hours**:
+  - TBD
+- **Communication**: We will use [Campuswire](#) as our main communication tool for announcements and answering questions related to the lectures, assignments, and projects. The registration link is available on [Brightspace](#).
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+## Grading
+
+- **Assignments (36%)**: There will be three assignments, each counting 12%.
+- **Midterm (15%)**: There will be an online midterm on March 7.
+- **Project (45%)**: You are required to complete a (group) project applying techniques learned in this course.
+
+## Coursework
+### Assignments
+The assignments will contain both written problems and programming problems.
+
+- **Late policy**: All assignments are due at noon 12:00pm (New York time) on the due date. You have **5 late days** in total that can be distributed among the assignments. However, homeworks will not be accepted 48 hours after the deadline.
+- **Collaboration policy**: You may discuss problems with your classmates. However, you must write up the homework solutions and the code from scratch, without referring to notes from your joint session. In your solution to each problem, you must write down the names of any person with whom you discussed the problem—this will not affect your grade.
+- **Submission**: Assignments are submitted through [Gradescope](#). At the beginning of the semester, you will be added to the Gradescope roster through Brightspace. Please do not register on Gradescope separately, since the rosters will be out-of-sync. 
+
+### Midterm
+TBD
+
+### Project
+TBD

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: Home 
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -8,32 +8,52 @@ seo:
   name: Just the Class
 ---
 
-# Just the Class
+# CSCI-GA.2590 Natural Language Processing, Spring 2022 
+{:.no_toc}
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+## Table of contents
+{: .no_toc .text-delta }
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+1. TOC
+{:toc}
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+---
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+## About
 
-## Getting Started
+How can we teach machines to understand human languages so that they can answer queries, summarize dense information, or hold a conversation with us? The primary goal of this course is to provide students with the principles and state-of-the-art tools needed to solve a variety of NLP problems. We will focus on three paradigms in the field of NLP: supervised learning, pretrain-then-finetune, and the most recent large language models. Students are expected to read research papers and gain hands-on experience through coding assignments and course projects.
 
-Getting started with Just the Class is simple.
+## Prerequisites
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+Students are expected to have a solid mathematics background and strong programming skills.
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+- Probability, statistics, linear algebra (DS-GA.1002, MATH-UA.140, MATH-UA.235)
+- Algorithms and data structure (CSCI-UA.102)
+- Basic knowledge in machine learning (DS-GA.1003, CSCI-UA.0473). We will not spend a significant amount of time on machine learning basics so some prior exposure to the supervised learning framework (e.g., loss functions, SGD) is expected.
 
-### Local development environment
+## Logistics
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+- **Lectures**: Tue 4:55pm--6:55pm, CIWW 101
+- **Office hours**:
+  - TBD
+- **Communication**: We will use [Campuswire](#) as our main communication tool for announcements and answering questions related to the lectures, assignments, and projects. The registration link is available on [Brightspace](#).
+
+## Grading
+
+- **Assignments (36%)**: There will be three assignments, each counting 12%.
+- **Midterm (15%)**: There will be an online midterm on March 7.
+- **Project (45%)**: You are required to complete a (group) project applying techniques learned in this course.
+
+## Coursework
+### Assignments
+The assignments will contain both written problems and programming problems.
+
+- **Late policy**: All assignments are due at noon 12:00pm (New York time) on the due date. You have **5 late days** in total that can be distributed among the assignments. However, homeworks will not be accepted 48 hours after the deadline.
+- **Collaboration policy**: You may discuss problems with your classmates. However, you must write up the homework solutions and the code from scratch, without referring to notes from your joint session. In your solution to each problem, you must write down the names of any person with whom you discussed the problem—this will not affect your grade.
+- **Submission**: Assignments are submitted through [Gradescope](#). At the beginning of the semester, you will be added to the Gradescope roster through Brightspace. Please do not register on Gradescope separately, since the rosters will be out-of-sync. 
+
+### Midterm
+TBD
+
+### Project
+TBD
