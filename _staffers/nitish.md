@@ -1,9 +1,9 @@
 ---
 name: Nitish Joshi 
 role: Course Assistant
-email: 
-website: 
-photo: 
+email: nitish@nyu.edu 
+website: joshinh.github.io
+photo: nitish.jpeg 
 ---
 
 Office hour: TBD
