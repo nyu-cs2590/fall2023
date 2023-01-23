@@ -1,8 +1,11 @@
 ---
-layout: page
-title: About
-description: >-
-    Course policies and information.
+layout: home
+title: Home 
+nav_exclude: true
+permalink: /:path/
+seo:
+  type: Course
+  name: Just the Class
 ---
 
 # CSCI-GA.2590 Natural Language Processing, Spring 2023 
