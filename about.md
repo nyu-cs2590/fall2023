@@ -5,7 +5,7 @@ description: >-
     Course policies and information.
 ---
 
-# CSCI-GA.2590 Natural Language Processing, Spring 2022 
+# CSCI-GA.2590 Natural Language Processing, Spring 2023 
 {:.no_toc}
 
 ## Table of contents
