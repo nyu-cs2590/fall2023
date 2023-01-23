@@ -1,9 +1,9 @@
 ---
-name: Aditya Kashilkar 
+name: Aditya Kashilkar (grader)
 role: Grader 
-email: 
+email: ask9126@nyu.edu
 website: 
-photo: 
+photo: aditya.jpeg
 ---
 
 Office hour: TBD

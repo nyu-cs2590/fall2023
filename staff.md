@@ -26,3 +26,11 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+{% assign graders = site.staffers | where: 'role', 'Grader' %}
+{% assign num_graders = graders | size %}
+{% if num_graders != 0 %}
+{% for staffer in graders %}
+{{ staffer }}
+{% endfor %}
+{% endif %}

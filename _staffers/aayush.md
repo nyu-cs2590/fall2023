@@ -1,9 +1,9 @@
 ---
-name: Aayush Agrawal  
+name: Aayush Agrawal (grader)
 role: Grader 
-email: 
+email: aka7919@nyu.edu
 website: 
-photo: 
+photo: aayush.jpg
 ---
 
 Office hour: TBD
