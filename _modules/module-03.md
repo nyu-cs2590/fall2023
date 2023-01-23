@@ -30,4 +30,4 @@ Apr 25
 
 May 2
 : Project presentation
-  : 
+  : **Report due**{: .label .label-red }

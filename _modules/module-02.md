@@ -21,7 +21,7 @@ Mar 14
 
 Mar 21 
 : [Advanced pretraining techniques](#)
-  : 
+  : **proposal due**{: .label .label-red }
 : 1. Pretrained models for generation
   2. Long sequence modeling
   3. Retrieval-based models
