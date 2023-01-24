@@ -31,6 +31,8 @@ Students are expected to have a solid mathematics background and strong programm
 ## Logistics
 
 - **Lectures**: Tue 4:55pm--6:55pm, CIWW 101
+  - Join on [Zoom](https://nyu.zoom.us/j/93081961916) using the NYU account
+  - Zoom recordings can be found on Brightspace
 - **Office hours**: We will have three office hours each week: one with the instructor (lecture or general questions), one with the TA (lecture or assignment questions), and one with the graders (grading questions). Details can be found on the [Staff page]({% link staff.md %}). You are also encouraged to ask questions on Campuswire.
 - **Communication**: We will use [Campuswire](https://campuswire.com/c/GC1A61E84) as our main communication tool for announcements and answering questions related to the lectures, assignments, and projects. The registration link is available on [Brightspace](https://brightspace.nyu.edu/d2l/home/265744).
 
