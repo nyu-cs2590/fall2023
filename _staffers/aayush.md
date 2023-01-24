@@ -6,4 +6,4 @@ website:
 photo: aayush.jpg
 ---
 
-Office hour: TBD
+Office hour: Thursday 4pm-5pm (Location: TBD)
