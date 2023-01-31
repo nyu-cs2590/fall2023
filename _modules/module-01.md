@@ -14,7 +14,7 @@ Jan 31
   : 
 : 1. Distributed representation of words
   2. Learning word vectors
-: **Section**{: .label .label-purple }[Operations on word vectors](#)
+: **Section**{: .label .label-purple } Operations on word vectors [[slides](https://nyu-cs2590.github.io/course-material/spring2023/section/sec01/slides.pdf)][[notebook](https://nyu-cs2590.github.io/course-material/spring2023/section/sec01/operations_on_word_vectors.ipynb)]
 
 Feb 7 
 : [Sequence modeling](#)
