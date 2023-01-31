@@ -10,7 +10,7 @@ Jan 24
   3. [Feature-based text classification](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec01/classification.pdf)
 
 Jan 31 
-: [Word embedding](#)
+: [Word embedding](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec02/main-annotated.pdf)
   : 
 : 1. Distributed representation of words
   2. Learning word vectors
