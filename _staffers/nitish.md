@@ -6,4 +6,4 @@ website: joshinh.github.io
 photo: nitish.jpeg 
 ---
 
-Office hour: Thursday 11am-12pm (Room 302, 60 5th Ave)
+Office hour: Thursday 11am-12pm (Room 302, 60 5th Ave or [Zoom](https://nyu.zoom.us/j/3910941172))
