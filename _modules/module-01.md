@@ -23,7 +23,7 @@ Feb 7
 : 1. Neural network basics
   2. RNN and its variants 
   3. Attention and Transformers 
-: **Section**{: .label .label-purple }[HPC and Pytorch tutorial](#)
+: **Section**{: .label .label-purple }[Pytorch tutorial](#)
 
 Feb 14
 : [Sequence generation](#)
@@ -31,6 +31,7 @@ Feb 14
 : 1. Encoder-decoder models
   2. Decoding algorithms
   3. Machine translation and evaluation
+: **Section**{: .label .label-purple }[HPC tutorial](#)
 
 Feb 21
 : [Tasks and applications](#)
