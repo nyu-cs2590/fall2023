@@ -17,7 +17,7 @@ Jan 31
 : **Section**{: .label .label-purple } Operations on word vectors [[slides](https://nyu-cs2590.github.io/course-material/spring2023/section/sec01/slides.pdf)][[notebook](https://nyu-cs2590.github.io/course-material/spring2023/section/sec01/operations_on_word_vectors.ipynb)]
 
 Feb 7 
-: [Sequence modeling](#)
+: [Sequence modeling](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec03/main.pdf)
   : **HW 1 due**{: .label .label-red}
   : **HW 2 out**{: .label .label-green }[[pdf](#)]
 : 1. Neural network basics
