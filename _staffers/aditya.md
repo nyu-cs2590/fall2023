@@ -6,4 +6,4 @@ website:
 photo: aditya.jpeg
 ---
 
-Office hour: Thursday 4pm-5pm (Location: [Zoom](https://nyu.zoom.us/j/92155106193))
+Office hour: Wednesday 4pm-5pm (Location: [Zoom](https://nyu.zoom.us/j/92155106193))
