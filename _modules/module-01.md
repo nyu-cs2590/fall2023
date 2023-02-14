@@ -26,7 +26,7 @@ Feb 7
 : **Section**{: .label .label-purple }[HPC tutorial](https://nyu-cs2590.github.io/course-material/spring2023/section/sec02/hpc.ipynb) and [Pytorch tutorial](https://nyu-cs2590.github.io/course-material/spring2023/section/sec02/pytorch.ipynb)
 
 Feb 14
-: [Sequence generation](#)
+: [Sequence generation](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec04/main.pdf)
   : 
 : 1. Encoder-decoder models
   2. Decoding algorithms
