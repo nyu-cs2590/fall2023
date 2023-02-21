@@ -33,7 +33,7 @@ Feb 14
   3. Machine translation and evaluation
 
 Feb 21
-: [Tasks and applications](#)
+: [Tasks and applications](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec05/main.pdf)
   : 
 : 1. The landscape of NLP tasks
   2. Solving a task end-to-end
