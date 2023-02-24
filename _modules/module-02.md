@@ -13,11 +13,11 @@ Feb 28
 
 Mar 7
 : Online midterm (no lecture)
+: [2020 midterm](https://nyu-cs2590.github.io/spring2023/assignments/cs2590_midterm_2020.pdf) [2021 midterm](https://nyu-cs2590.github.io/spring2023/assignments/cs2590_midterm_2021.pdf)
   : 
 
 Mar 14 
 : Spring break (no lecture)
-  [2020 midterm](https://nyu-cs2590.github.io/spring2023/assignments/cs2590_midterm_2020.pdf) [2021 midterm](https://nyu-cs2590.github.io/spring2023/assignments/cs2590_midterm_2021.pdf)
   : 
 
 Mar 21 
