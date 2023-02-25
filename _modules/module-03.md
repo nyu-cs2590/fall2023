@@ -10,7 +10,7 @@ Apr 4
   3. Perplexity 
 
 Apr 11 
-: [Scaling language models](#)
+: [Scaling language models](#) (by [Jason Wei](https://www.jasonwei.net))
   : 
 : 1. From GPT to ChatGPT (and friends)
   2. Scaling laws
@@ -18,15 +18,17 @@ Apr 11
 : **Section**{: .label .label-purple }[Prompt engineering](#)
 
 Apr 18 
-: [Aligning language models](#)
+: [Aligning language models (basics)](#)
   : 
-: 1. What does alignment mean?
-  2. Instruction tuning
-  3. RLHF
+: 1. Why do we need alignment?
+  2. Parameter-efficient finetuning
+  3. Intro to reinforcement learning
 
 Apr 25
-: Guest lecture (TBD)
-  : 
+: [Aligning language models (advanced)](#) (by [Hyung Won Chung](https://hwchung27.github.io))
+  :
+: 1. Instruction tuning
+  2. RLHF
 
 May 2
 : Project presentation
