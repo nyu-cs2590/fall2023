@@ -9,7 +9,7 @@ Feb 28
 : 1. Data
   2. Self-supervised learning
   3. Adaptation / finetuning 
-: **Section**{: .label .label-purple }[Huggingface transformer](#)
+: **Section**{: .label .label-purple }[Huggingface transformer](https://nyu-cs2590.github.io/course-material/spring2023/section/sec04/transformers.ipynb)
 
 Mar 7
 : Online midterm (no lecture)
