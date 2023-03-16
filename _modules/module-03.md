@@ -4,14 +4,14 @@ title: NLP via language modeling
 
 Apr 4 
 : [Language models](#)
-  : **HW 3 due**{: .label .label-red }
+  : 
 : 1. N-gram language models 
   2. Neural autoregressive language models 
   3. Perplexity 
 
 Apr 11 
 : [Scaling language models](#) (by [Jason Wei](https://www.jasonwei.net))
-  : 
+  : **HW 3 due**{: .label .label-red }
 : 1. From GPT to ChatGPT (and friends)
   2. Scaling laws
   3. Capabilities and harms

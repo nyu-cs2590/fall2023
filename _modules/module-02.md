@@ -5,7 +5,6 @@ title: Representation learning
 Feb 28
 : [Pretrain then finetune](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec06/main.pdf)
   : **HW 2 due**{: .label .label-red }
-  : **HW 3 out**{: .label .label-green }[[pdf](#)]
 : 1. Data
   2. Self-supervised learning
   3. Adaptation / finetuning 
@@ -24,6 +23,7 @@ Mar 14
 Mar 21 
 : [Advanced pretraining techniques](#)
   : **proposal due**{: .label .label-red }
+  : **HW 3 out**{: .label .label-green }[[pdf](#)]
 : 1. Pretrained models for generation
   2. Long sequence modeling
   3. Retrieval-based models
