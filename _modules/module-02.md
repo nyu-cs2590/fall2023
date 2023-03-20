@@ -23,7 +23,7 @@ Mar 14
 Mar 21 
 : [Advanced pretraining techniques](#)
   : **proposal due**{: .label .label-red }
-  : **HW 3 out**{: .label .label-green }[[pdf](#)]
+  : **HW 3 out**{: .label .label-green }[[zip](https://nyu-cs2590.github.io/spring2023/assignments/hw3.zip)]
 : 1. Pretrained models for generation
   2. Long sequence modeling
   3. Retrieval-based models
