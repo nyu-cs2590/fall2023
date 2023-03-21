@@ -21,12 +21,11 @@ Mar 14
   : 
 
 Mar 21 
-: [Advanced pretraining techniques](#)
+: [Advanced pretraining and finetuning techniques](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec07/main.pdf)
   : **proposal due**{: .label .label-red }
   : **HW 3 out**{: .label .label-green }[[zip](https://nyu-cs2590.github.io/spring2023/assignments/hw3.zip)]
-: 1. Pretrained models for generation
-  2. Long sequence modeling
-  3. Retrieval-based models
+: 1. Efficient pretraining 
+  2. Efficient finetuning 
 
 Mar 28
 : [Holistic evaluation](#)
