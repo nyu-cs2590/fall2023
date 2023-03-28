@@ -28,7 +28,7 @@ Mar 21
   3. Additional reading: [Efficient transformers: a survey](https://arxiv.org/abs/2009.06732)
 
 Mar 28
-: [Holistic evaluation](#)
+: [Holistic evaluation](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec08/main.pdf)
   : 
 : 1. Behavioral tests 
   2. Human evaluation
