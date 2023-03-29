@@ -7,7 +7,8 @@ Apr 4
   : 
 : 1. N-gram language models 
   2. Neural autoregressive language models 
-  3. Perplexity 
+  3. Perplexity
+: **Section**{: .label .label-purple }[Prompt engineering](#)
 
 Apr 11 
 : [Scaling language models](#) (by [Jason Wei](https://www.jasonwei.net))
@@ -15,7 +16,6 @@ Apr 11
 : 1. From GPT to ChatGPT (and friends)
   2. Scaling laws
   3. Capabilities and harms
-: **Section**{: .label .label-purple }[Prompt engineering](#)
 
 Apr 18 
 : [Aligning language models (basics)](#)
