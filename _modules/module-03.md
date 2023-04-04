@@ -3,17 +3,17 @@ title: NLP via language modeling
 ---
 
 Apr 4 
-: [Language models](#)
+: [Language models](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec09/main.pdf)
   : 
 : 1. N-gram language models 
-  2. Neural autoregressive language models 
-  3. Perplexity
+  2. Neural autoregressive language models
+  3. Language models as general task solvers
 : **Section**{: .label .label-purple }[Prompt engineering](#)
 
 Apr 11 
 : [Scaling language models](#) (by [Jason Wei](https://www.jasonwei.net))
   : **HW 3 due**{: .label .label-red }
-: 1. From GPT to ChatGPT (and friends)
+: 1. Emergent abilities 
   2. Scaling laws
   3. Capabilities and harms
 
