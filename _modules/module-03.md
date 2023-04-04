@@ -8,7 +8,7 @@ Apr 4
 : 1. N-gram language models 
   2. Neural autoregressive language models
   3. Language models as general task solvers
-: **Section**{: .label .label-purple }[Prompt engineering](#)
+: **Section**{: .label .label-purple }[Prompt engineering](https://nyu-cs2590.github.io/course-material/spring2023/section/sec05/slides.pdf)
 
 Apr 11 
 : [Scaling language models](#) (by [Jason Wei](https://www.jasonwei.net))
