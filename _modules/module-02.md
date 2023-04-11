@@ -31,5 +31,5 @@ Mar 28
 : [Holistic evaluation](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec08/main.pdf)
   : 
 : 1. Behavioral tests 
-  2. Human evaluation
-  3. Fairness, robustness, privacy
+  2. Fairness, robustness, privacy
+  3. Additional reading: [Holistic evaluation of language models](https://arxiv.org/abs/2211.09110)

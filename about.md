@@ -66,5 +66,5 @@ It allows you to apply what you have learned to a real problem. You are asked to
 
 - **Deliverables**:
   - Proposal (6%): You are required to submit a one-page proposal by March 21.
-  - Presentation (10%): Each group will give a short presentation (5 minutes) of their work followed by Q&A (1 minutes) in the last lecture.
-  - Report (30%): The final report is due on **May 5**. Each group should submit a report in .pdf in the ACL templates (LaTex/Word, Overleaf).
+  - Presentation (10%): Each group will give a short presentation (3 minutes) of their work followed by Q&A (1 minutes) in the last lecture.
+  - Report (30%): The final report is due on **May 5**. Each group should submit a report in .pdf in the ACL [templates](https://2023.aclweb.org/calls/style_and_formatting/).
