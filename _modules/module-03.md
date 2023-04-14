@@ -11,11 +11,11 @@ Apr 4
 : **Section**{: .label .label-purple }[Prompt engineering](https://nyu-cs2590.github.io/course-material/spring2023/section/sec05/slides.pdf)
 
 Apr 11 
-: [Scaling language models](#) (by [Jason Wei](https://www.jasonwei.net))
+: [Scaling language models](https://docs.google.com/presentation/d/1EUV7W7X_w0BDrscDhPg7lMGzJCkeaPkGCJ3bN8dluXc/edit?resourcekey=0-7Nz5A7y8JozyVrnDtcEKJA#slide=id.g22901df64bd_1_283) (by [Jason Wei](https://www.jasonwei.net))
   : **HW 3 due**{: .label .label-red }
-: 1. Emergent abilities 
-  2. Scaling laws
-  3. Capabilities and harms
+: 1. Scaling laws 
+  2. Emergent abilities
+  3. Reasoning 
 
 Apr 18 
 : [Aligning language models (basics)](#)
