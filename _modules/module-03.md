@@ -18,11 +18,11 @@ Apr 11
   3. Reasoning 
 
 Apr 18 
-: [Aligning language models (basics)](#)
+: [Aligning language models (basics)](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec10/main.pdf)
   : 
 : 1. Why do we need alignment?
-  2. Parameter-efficient finetuning
-  3. Intro to reinforcement learning
+  2. Approaches to alignment 
+  3. [Tips on project presentation and report](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec10/advice.pdf)
 
 Apr 25
 : [Aligning language models (advanced)](#) (by [Hyung Won Chung](https://hwchung27.github.io))
