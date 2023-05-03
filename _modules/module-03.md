@@ -25,7 +25,7 @@ Apr 18
   3. [Tips on project presentation and report](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec10/advice.pdf)
 
 Apr 25
-: [Aligning language models (advanced)](#) (by [Hyung Won Chung](https://hwchung27.github.io))
+: [Aligning language models (advanced)](https://docs.google.com/presentation/d/13Tylt2SvKvBL2hgILy5CmBtPDv3rXlVrQp01OzAe5Xo/edit#slide=id.p) (by [Hyung Won Chung](https://hwchung27.github.io))
   : 
 : 1. Instruction tuning
   2. RLHF
