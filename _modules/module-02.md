@@ -3,7 +3,7 @@ title: Representation learning
 ---
 
 Feb 28
-: [Pretrain then finetune](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec06/main.pdf)
+: [Pretrain then finetune](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec06/main.pdf) [[recording](https://nyu.zoom.us/rec/play/UjVTW4faDb5htQLUSAYm_hftBtLcnAMrkXX87Obi3FNyePMsvNMxd5B3qTuGpsV4h3boFcpLfMiLZm7d.EHgTYevJBH79sJYH)]
   : **HW 2 due**{: .label .label-red }
 : 1. Data
   2. Self-supervised learning
@@ -20,7 +20,7 @@ Mar 14
   : 
 
 Mar 21 
-: [Advanced pretraining and finetuning techniques](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec07/main.pdf)
+: [Advanced pretraining and finetuning techniques](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec07/main.pdf) [[recording](https://nyu.zoom.us/rec/play/kc-ZALEutm89eRE3ZOwa4fZQTg1FTV0RtNK8I9sXRuig-sDGSfRn38LZDp0GnyVY2hgUlqfl2bHyQgas.4dTtPr_I3zms2lVo)]
   : **proposal due**{: .label .label-red }
   : **HW 3 out**{: .label .label-green }[[zip](https://nyu-cs2590.github.io/spring2023/assignments/hw3.zip)]
 : 1. Efficient pretraining 
@@ -28,7 +28,7 @@ Mar 21
   3. Additional reading: [Efficient transformers: a survey](https://arxiv.org/abs/2009.06732)
 
 Mar 28
-: [Holistic evaluation](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec08/main.pdf)
+: [Holistic evaluation](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec08/main.pdf) 
   : 
 : 1. Behavioral tests 
   2. Fairness, robustness, privacy
