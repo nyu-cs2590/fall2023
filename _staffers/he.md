@@ -6,4 +6,4 @@ website: https://hhexiy.github.io
 photo: he.jpeg
 ---
 
-Office hour: Friday 2:30pm-3:30pm ([Zoom](https://nyu.zoom.us/j/96299164848) or in-person by appointment)
+Office hour: Wednesday 3:00pm-4:00pm ([Zoom](https://nyu.zoom.us/j/91316650591) or in-person at CDS 605)

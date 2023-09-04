@@ -2,34 +2,56 @@
 title: NLP via language modeling 
 ---
 
-Apr 4 
-: [Language models](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec09/main.pdf) [[recording](https://nyu.zoom.us/rec/play/hYoi78L00EWw3Cy2-HtuXb4DcjMMzCw2K6LVSL8LAkhoYDCFS-YSMwZg67P2HSOf6Y-aT8GQ27V9NuUk.gG48J94Utm9-y-Bp)]
-  : 
-: 1. N-gram language models 
-  2. Neural autoregressive language models
-  3. Language models as general task solvers
-: **Section**{: .label .label-purple }[Prompt engineering](https://nyu-cs2590.github.io/course-material/spring2023/section/sec05/slides.pdf)
-
-Apr 11 
-: [Scaling language models](https://docs.google.com/presentation/d/1EUV7W7X_w0BDrscDhPg7lMGzJCkeaPkGCJ3bN8dluXc/edit?resourcekey=0-7Nz5A7y8JozyVrnDtcEKJA#slide=id.g22901df64bd_1_283) (by [Jason Wei](https://www.jasonwei.net)) [[recording](https://nyu.zoom.us/rec/play/EAxOBV5G_SlA7YMqN-MqwlCIUZQU63e-RsR2HO7omDPLWxdgJCDxw1pLDvni5IZ4SHrpCrk6mgwsxtB4.8nxWf7HMNA1QVcW3)]
+Nov 1
+: [Scaling language models]() [[recording]()]
   : **HW 3 due**{: .label .label-red }
+  : **HW 4 out**{: .label .label-green }
 : 1. Scaling laws 
   2. Emergent abilities
-  3. Reasoning 
 
-Apr 18 
-: [Aligning language models (basics)](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec10/main.pdf) 
+Nov 6
+: **Section**{: .label .label-purple } Training LLMs 
+
+Nov 8 
+: [Prompt engineering]() 
+  : 
+
+Nov 13
+: **Section**{: .label .label-purple } Prompting for complex tasks
+
+Nov 15
+: [Aligning language models (basics)]() [[recording]()]
   : 
 : 1. Why do we need alignment?
-  2. Approaches to alignment 
-  3. [Tips on project presentation and report](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec10/advice.pdf)
+  2. Basic alignment techniques
 
-Apr 25
-: [Aligning language models (advanced)](https://docs.google.com/presentation/d/13Tylt2SvKvBL2hgILy5CmBtPDv3rXlVrQp01OzAe5Xo/edit#slide=id.p) (by [Hyung Won Chung](https://hwchung27.github.io)) [[recording](https://nyu.zoom.us/rec/play/VZKX3rK90iRkf_8WCdXi76oY1F4OChLl12Y9IAd8LmS6l9kD69wchWw65tHDpoJ7AoZ1pjj_Df66rQTO.tdoKC34zSIHvNabt)]
+Nov 20
+: **Section**{: .label .label-purple } Reinforcement learning basics 
+  : **HW4 due**{: .label .label-red }
+
+Nov 22
+: Fall break (no lecture) 
+
+Nov 27
+: **Section**{: .label .label-purple } Project presentation and report writing 
+
+Nov 29
+: [Aligning language models (advanced)]() [[recording]()]
   : 
 : 1. Instruction tuning
   2. RLHF
 
-May 2
-: Project presentation
+Dec 4
+: **Section**{: .label .label-purple } RLHF and its extensions 
+
+Dec 6
+: Guest lecture (TBD)
+  : 
+
+Dec 11
+: Final project presentation
+  : 
+
+Dec 13
+: Final project presentation
   : **Report due**{: .label .label-red }
