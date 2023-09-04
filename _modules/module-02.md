@@ -24,7 +24,7 @@ Oct 23
 : **Section**{: .label .label-purple } Hugginface tutorial
 
 Oct 25
-: [Holistic evaluation](https://nyu-cs2590.github.io/course-material/spring2023/lecture/lec08/main.pdf) 
+: [Holistic evaluation]() 
   : **Proposal due**{: .label .label-red }
 : 1. Behavioral tests 
   2. Fairness, robustness, privacy
