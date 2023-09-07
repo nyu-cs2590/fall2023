@@ -6,4 +6,4 @@ website: https://lavenderjiang.github.io
 photo: lavender.png
 ---
 
-Office hour: TBD 
+Office hour: Thursday 5-6pm (CDS 763)

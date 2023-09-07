@@ -6,4 +6,5 @@ website: https://yilunkuang.github.io
 photo: yilun.jpg
 ---
 
-Office hour: TBD 
+Office hour: Wednesday 4-5pm (CDS 242)
+

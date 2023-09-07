@@ -6,4 +6,4 @@ website: https://yyy-apple.github.io
 photo: weizhe.jpeg
 ---
 
-Office hour: TBD 
+Office hour: Friday 2-3pm (CDS 428E)

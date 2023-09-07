@@ -6,4 +6,4 @@ website: https://xiangpan.netlify.app/#posts
 photo: xiang.jpg
 ---
 
-Office hour: TBD 
+Office hour: Tuesday 9-10am (CDS 737)
