@@ -46,7 +46,7 @@ Students are expected to have a solid mathematics background and strong programm
 The assignments will contain both written problems and programming problems (in Python).
 
 - **Late policy**: All assignments are due at noon 12:00pm (New York time) on the due date (which will be announced with the assignment). You have **8 late days** in total that can be distributed among the assignments. You may use a maximum of 7 late days for each assignment, i.e. we will not accept submissions a week after the deadline. Once you have used all 8 late days, each additional late day will incur a 5\% penalty on the assignment, e.g., if you are late for two days (beyond the legitimate 8 late days) and get 80 points on the assignment, you final points will be 80-80*(5\% + 5\%)=72.
-- **Collaboration policy**: You may discuss problems with your classmates. However, you must write up the homework solutions and the code from scratch, without referring to notes from your joint session. In your solution to each problem, you must write down the names of any person with whom you discussed the problem; this will not affect your grade.
+- **Collaboration policy**: You may discuss problems with your classmates. However, you must write up the homework solutions and the code from scratch, without referring to notes from your joint session. In the submission, you must write down the names of any person with whom you discussed the problem; this will not affect your grade.
 - **Submission**: Assignments are submitted through Gradescope. At the beginning of the semester, you will be added to the Gradescope roster through Brightspace. Please do not register on Gradescope separately or change your email; this will cause the rosters will be out-of-sync. 
 - **Grading**: We aim to release grades within two weeks of the submission date. Once the grades are released, you will have one week to submit any regrading requests.
 
@@ -64,3 +64,9 @@ It allows you to apply what you have learned to a real problem. You are asked to
   - Proposal (5%): You are required to submit a two-page proposal that describes the team and your project plan.
   - Presentation (10%): Each group will give a short presentation (3 minutes) of their work followed by Q&A (1 minutes) in the last week.
   - Report (25%): The final report is due on **Dec 15**. Each group should submit a report in .pdf in the ACL [templates](https://2023.aclweb.org/calls/style_and_formatting/).
+
+## Academic integrity
+Work you submit should be your own. Please consult the CAS academic integrity policy for more information: http://cas.nyu.edu/page/academicintegrity.  Penalties for violations of academic integrity may include failure of the course, suspension from the University, or even expulsion.
+
+## AI policy
+For the assignments and projects, you are free to use any AI-powered tools including ChatGPT. However, you must declare how you used these tools. This will not affect your grades.

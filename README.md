@@ -67,3 +67,9 @@ It allows you to apply what you have learned to a real problem. You are asked to
   - Proposal (5%): You are required to submit a two-page proposal that describes the team and your project plan.
   - Presentation (10%): Each group will give a short presentation (3 minutes) of their work followed by Q&A (1 minutes) in the last week.
   - Report (25%): The final report is due on **Dec 15**. Each group should submit a report in .pdf in the ACL [templates](https://2023.aclweb.org/calls/style_and_formatting/).
+
+## Academic integrity
+Work you submit should be your own. Please consult the CAS academic integrity policy for more information: http://cas.nyu.edu/page/academicintegrity.  Penalties for violations of academic integrity may include failure of the course, suspension from the University, or even expulsion.
+
+## AI policy
+For the assignments and projects, you are free to use any AI-powered tools including ChatGPT. However, you must declare how you used these tools. This will not affect your grades.
