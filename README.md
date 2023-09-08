@@ -53,10 +53,6 @@ The assignments will contain both written problems and programming problems (in 
 - **Submission**: Assignments are submitted through Gradescope. At the beginning of the semester, you will be added to the Gradescope roster through Brightspace. Please do not register on Gradescope separately or change your email; this will cause the rosters will be out-of-sync. 
 - **Grading**: We aim to release grades within two weeks of the submission date. Once the grades are released, you will have one week to submit any regrading requests.
 
-#### Assignments 1
-We 
-
-
 ### Project
 The project is an important component of this course.
 It allows you to apply what you have learned to a real problem. You are asked to complete the project in a group of **1 to 5** students. We strongly recommend you do projects in a team. Larger groups are expected to show more efforts. 
