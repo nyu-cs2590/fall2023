@@ -5,7 +5,7 @@ title: Supervised learning
 Sep 6 
 : [Text classification](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec01/main.pdf) [[recording](https://nyu.zoom.us/rec/share/ILTAqa42w57MczJHzlP-VaEcmdu2cjsA3-NTcpNtmEuD1-diUHI6N8H329VJBurY.WST3O1J7yNzoQMaa)]
   : **HW 1 out**{: .label .label-green }
-  [[zip](https://nyu-cs2590.github.io/fall2023/assignments/hw1_fall2023.zip)]
+  [[zip](https://nyu-cs2590.github.io/fall2023/assignments/hw1.zip)]
 : 1. Course overview
   2. Supervised learning basics
   3. Feature-based text classification
