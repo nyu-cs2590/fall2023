@@ -33,6 +33,9 @@ Students are expected to have a solid mathematics background and strong programm
 - **Lectures**: Wed 12:00pm--1:40pm, 12 Waverly Pl G08 
   - Join on [Zoom](https://nyu.zoom.us/j/92498282358) using the NYU account
   - Zoom recordings can be found on Brightspace
+- **Sections**: Mon 10:15am-11:05am, 19 University Place, Room 102
+  - Join on [Zoom](https://nyu.zoom.us/j/94436115847) using the NYU account
+  - Zoom recordings can be found on Brightspace
 - **Office hours**: We will have five office hours each week: one with the instructor (lecture or general questions) and one with each of the four section leaders (lecture or assignment questions). Details can be found on the [Staff page]({% link staff.md %}). You are also encouraged to ask questions on Campuswire, which will be answered by the TAs or your classmates.
 - **Communication**: We will use [Campuswire](https://campuswire.com/c/GC1A61E84) as our main communication tool for announcements and answering questions related to the lectures, assignments, and projects. The registration link is available on [Brightspace](https://brightspace.nyu.edu/d2l/home/315303).
 
