@@ -10,6 +10,7 @@ Sep 6
 : 1. Course overview
   2. Supervised learning basics
   3. Feature-based text classification
+  4. Additional readings: [JM Ch4.1](https://web.stanford.edu/~jurafsky/slp3/4.pdf), [JM Ch5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Sep 11
 : **Section**{: .label .label-purple } Text classification 
@@ -22,6 +23,7 @@ Sep 13
   : 
 : 1. Distributed representation of words
   2. Learning word vectors
+  3. Additional readings: [JM Ch6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 
 Sep 18
 : **Section**{: .label .label-purple } Word vector algebra 
