@@ -11,7 +11,7 @@ Sep 6
   3. Feature-based text classification
 
 Sep 11
-: **Section**{: .label .label-purple } Text classification
+: **Section**{: .label .label-purple } [Text classification](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2023/sec/sec01/sec01.zip) [[recording]](https://nyu.zoom.us/rec/play/nzP3GM62cZurGLlMCvGomANUUEqP46BnCsOTU2q73Jr3a4G4-THwOZSlcnzF1vNkzObUy-pWa5tTvS7j.e0Xn3vJ0Tjee9w42?autoplay=true&startTime=1694440932000)
 
 Sep 13 
 : [Word embedding]() [[recording]()]
