@@ -6,12 +6,16 @@ Sep 6
 : [Text classification](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec01/main.pdf) [[recording](https://nyu.zoom.us/rec/share/ILTAqa42w57MczJHzlP-VaEcmdu2cjsA3-NTcpNtmEuD1-diUHI6N8H329VJBurY.WST3O1J7yNzoQMaa)]
   : **HW 1 out**{: .label .label-green }
   [[zip](https://nyu-cs2590.github.io/fall2023/assignments/hw1.zip)]
+  [[pdf](https://nyu-cs2590.github.io/fall2023/assignments/hw1.pdf)]
 : 1. Course overview
   2. Supervised learning basics
   3. Feature-based text classification
 
 Sep 11
-: **Section**{: .label .label-purple } [Text classification](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2023/sec/sec01/sec01.zip) [[recording]](https://nyu.zoom.us/rec/play/nzP3GM62cZurGLlMCvGomANUUEqP46BnCsOTU2q73Jr3a4G4-THwOZSlcnzF1vNkzObUy-pWa5tTvS7j.e0Xn3vJ0Tjee9w42?autoplay=true&startTime=1694440932000)
+: **Section**{: .label .label-purple } Text classification 
+  [[slides](https://nyu-cs2590.github.io/course-material/fall2023/section/sec01/sec01.pdf)]
+  [[notebook](https://nyu-cs2590.github.io/course-material/fall2023/section/sec01/sec01.ipynb)]
+  [[recording](https://nyu.zoom.us/rec/play/nzP3GM62cZurGLlMCvGomANUUEqP46BnCsOTU2q73Jr3a4G4-THwOZSlcnzF1vNkzObUy-pWa5tTvS7j.e0Xn3vJ0Tjee9w42?autoplay=true&startTime=1694440932000)]
 
 Sep 13 
 : [Word embedding](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec02/main.pdf) [[recording](https://nyu.zoom.us/rec/share/md9wCmYbam5vx7cXx4N4i3KIItbugyocg5n93lxtxBLckISkqBi8-pPuw0XgeBvn.mwZneI0s8EJkzInW)]
