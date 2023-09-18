@@ -27,6 +27,9 @@ Sep 13
 
 Sep 18
 : **Section**{: .label .label-purple } Word vector algebra 
+  [[slides](https://nyu-cs2590.github.io/course-material/fall2023/section/sec02/sec02.pdf)]
+  [[notebook](https://nyu-cs2590.github.io/course-material/fall2023/section/sec02/sec02.ipynb)]
+  [[recording](https://nyu.zoom.us/rec/play/Qq7iMc11LcKU26l2ADI8eWjnX6cK7r6Tm9uEj5Lyl9qIfUuL1fiIQnQJ2oWo0VKJpZtyn56u_Eqjm4J7.hQdGPIdfEPM6gS8x)]
 
 Sep 20 
 : [Sequence modeling]() [[recording]()]
