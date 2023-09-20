@@ -32,7 +32,7 @@ Sep 18
   [[recording](https://nyu.zoom.us/rec/play/Qq7iMc11LcKU26l2ADI8eWjnX6cK7r6Tm9uEj5Lyl9qIfUuL1fiIQnQJ2oWo0VKJpZtyn56u_Eqjm4J7.hQdGPIdfEPM6gS8x)]
 
 Sep 20 
-: [Sequence modeling]() [[recording]()]
+: [Sequence modeling](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec03/main.pdf) [[recording]()]
   : **HW 1 due**{: .label .label-red}
   : **HW 2 out**{: .label .label-green}
 : 1. Neural network basics
