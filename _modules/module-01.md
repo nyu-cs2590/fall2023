@@ -43,7 +43,9 @@ Sep 20
 
 Sep 25           
 : **Section**{: .label .label-purple } HPC and PyTorch tutorial 
-[[Check HPC Access](https://nyu-cs2590.github.io/course-material/fall2023/section/sec03/hpc_access.html)]
+  [[Check HPC Access](https://nyu-cs2590.github.io/course-material/fall2023/section/sec03/hpc_access.html)]
+  [[HPC Basics](https://nyu-cs2590.github.io/course-material/fall2023/section/sec03/hpc.ipynb)]
+  [[PyTorch Basics](https://nyu-cs2590.github.io/course-material/fall2023/section/sec03/pytorch.ipynb)]
 
 Sep 27
 : [Sequence generation]() [[recording]()]
