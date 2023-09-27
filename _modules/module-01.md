@@ -49,11 +49,10 @@ Sep 25
   [[PyTorch Basics](https://nyu-cs2590.github.io/course-material/fall2023/section/sec03/pytorch.ipynb)]
 
 Sep 27
-: [Sequence generation]() [[recording]()]
+: [Sequence generation](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec04/main.pdf) [[recording]()]
     : 
 : 1. Encoder-decoder models
   2. Decoding algorithms
-  3. Machine translation and evaluation
 
 Oct 2           
 : **Section**{: .label .label-purple } Machine translation; subword 
