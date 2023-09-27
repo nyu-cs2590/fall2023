@@ -49,7 +49,7 @@ Sep 25
   [[PyTorch Basics](https://nyu-cs2590.github.io/course-material/fall2023/section/sec03/pytorch.ipynb)]
 
 Sep 27
-: [Sequence generation](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec04/main.pdf) [[recording]()]
+: [Sequence generation](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec04/main.pdf) [[recording](https://nyu.zoom.us/rec/share/dc5VbxZWbRAhMGmc8Ib5sX7ZX-yIiSwuphgdoFixKdvO_sgHte7rLvnh-IIRpcSE.1F_GG8fyFE1nnL4M)]
     : 
 : 1. Encoder-decoder models
   2. Decoding algorithms
