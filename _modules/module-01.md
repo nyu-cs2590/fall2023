@@ -55,7 +55,8 @@ Sep 27
   2. Decoding algorithms
 
 Oct 2           
-: **Section**{: .label .label-purple } Machine translation; subword 
+: **Section**{: .label .label-purple } Machine translation (Encoder Decoder Model)
+ [[notes](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2023/section/sec04/EncDec%20Translation.pdf)]
 
 Oct 4 
 : [Tasks and applications]() [[recording]()]
