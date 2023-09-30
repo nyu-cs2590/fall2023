@@ -47,6 +47,7 @@ Sep 25
   [[Check HPC Access](https://nyu-cs2590.github.io/course-material/fall2023/section/sec03/hpc_access.html)]
   [[HPC Basics](https://nyu-cs2590.github.io/course-material/fall2023/section/sec03/hpc.ipynb)]
   [[PyTorch Basics](https://nyu-cs2590.github.io/course-material/fall2023/section/sec03/pytorch.ipynb)]
+  [[Recording](https://nyu.zoom.us/rec/play/Amk8qbNAOax5bkWs4iVa9LUmgHA0wCxKMlTbuFz6SKTpvZtvcI-Ul_HdK-Bxz7IIlee0J236l3PU0WZW.cIzxaE5HLN2SMHIv)]
 
 Sep 27
 : [Sequence generation](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec04/main.pdf) [[recording](https://nyu.zoom.us/rec/share/dc5VbxZWbRAhMGmc8Ib5sX7ZX-yIiSwuphgdoFixKdvO_sgHte7rLvnh-IIRpcSE.1F_GG8fyFE1nnL4M)]
