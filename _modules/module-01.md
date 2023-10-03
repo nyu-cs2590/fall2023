@@ -32,28 +32,32 @@ Sep 18
   [[recording](https://nyu.zoom.us/rec/play/Qq7iMc11LcKU26l2ADI8eWjnX6cK7r6Tm9uEj5Lyl9qIfUuL1fiIQnQJ2oWo0VKJpZtyn56u_Eqjm4J7.hQdGPIdfEPM6gS8x)]
 
 Sep 20 
-: [Sequence modeling](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec03/main.pdf) [[recording]()]
+: [Sequence modeling](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec03/main.pdf) [[recording](https://nyu.zoom.us/rec/share/fh35JlhwjKbwIrozw50CapZ_bF6-bqw1_JOnSI-vGRvpcMH2QWQ-c7a63Ak8QSP0.vOMUYpG_VuV7ngNl)]
   : **HW 1 due**{: .label .label-red}
   : **HW 2 out**{: .label .label-green}
   [[zip](https://nyu-cs2590.github.io/fall2023/assignments/hw2.zip)]
   [[pdf](https://nyu-cs2590.github.io/fall2023/assignments/hw2.pdf)]
 : 1. Neural network basics
   2. RNN and its variants 
-  3. Attention and Transformers 
+  3. Attention and Transformers
+  4. Additional readings: [D2L Ch9.4-9.7](https://d2l.ai/chapter_recurrent-neural-networks/index.html), [D2L 10.1](https://d2l.ai/chapter_recurrent-modern/lstm.html), [D2L Ch11.1-11.7](https://d2l.ai/chapter_recurrent-neural-networks/index.html)
 
 Sep 25           
 : **Section**{: .label .label-purple } HPC and PyTorch tutorial 
-[[Check HPC Access](https://nyu-cs2590.github.io/course-material/fall2023/section/sec03/hpc_access.html)]
+  [[Check HPC Access](https://nyu-cs2590.github.io/course-material/fall2023/section/sec03/hpc_access.html)]
+  [[HPC Basics](https://nyu-cs2590.github.io/course-material/fall2023/section/sec03/hpc.ipynb)]
+  [[PyTorch Basics](https://nyu-cs2590.github.io/course-material/fall2023/section/sec03/pytorch.ipynb)]
+  [[Recording](https://nyu.zoom.us/rec/play/Amk8qbNAOax5bkWs4iVa9LUmgHA0wCxKMlTbuFz6SKTpvZtvcI-Ul_HdK-Bxz7IIlee0J236l3PU0WZW.cIzxaE5HLN2SMHIv)]
 
 Sep 27
-: [Sequence generation]() [[recording]()]
+: [Sequence generation](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec04/main.pdf) [[recording](https://nyu.zoom.us/rec/share/dc5VbxZWbRAhMGmc8Ib5sX7ZX-yIiSwuphgdoFixKdvO_sgHte7rLvnh-IIRpcSE.1F_GG8fyFE1nnL4M)]
     : 
 : 1. Encoder-decoder models
   2. Decoding algorithms
-  3. Machine translation and evaluation
 
 Oct 2           
-: **Section**{: .label .label-purple } Machine translation; subword 
+: **Section**{: .label .label-purple } Machine translation (Encoder Decoder Model)
+ [[notes](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2023/section/sec04/EncDec%20Translation.pdf)]
 
 Oct 4 
 : [Tasks and applications]() [[recording]()]
