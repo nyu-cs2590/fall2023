@@ -56,17 +56,18 @@ Sep 27
   2. Decoding algorithms
 
 Oct 2           
-: **Section**{: .label .label-purple } Machine translation and encoder-decoder models)
+: **Section**{: .label .label-purple } Machine translation and encoder-decoder models
  [[notes](https://nyu-cs2590.github.io/course-material/fall2023/section/sec04/EncDec%20Translation.pdf)]
  [[recording](https://nyu.zoom.us/rec/play/xE208uC7NvIdG6jcH2QUKJynfEUcMJwy4J79Tja5Xbk3_R0H851yorgqQZ82PsvNsEjl4PZ_3u6TkFJ5.upnYyU3A_Rnpaa1N)]
 
 Oct 4 
-: [Tasks and applications](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec05/main.pdf) [[recording]()]
+: [Tasks and applications](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec05/main.pdf) [[recording](https://nyu.zoom.us/rec/share/QCccevh7YigCRkIxwl3z1To5COlzvM0pQ1dvKen2gjhaato15l8bLKwAA58iFFXg.vWrhTaR5FM-Okeg8
+)]
   : 
 : 1. The landscape of NLP tasks
   2. Evaluation 
   3. Final project tips 
 
-Oct 9           
-: Fall break (no section) 
+Oct 10           
+: **Section**{: .label .label-purple } Beam search; NLP datasets
 
