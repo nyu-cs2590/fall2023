@@ -61,8 +61,7 @@ Oct 2
  [[recording](https://nyu.zoom.us/rec/play/xE208uC7NvIdG6jcH2QUKJynfEUcMJwy4J79Tja5Xbk3_R0H851yorgqQZ82PsvNsEjl4PZ_3u6TkFJ5.upnYyU3A_Rnpaa1N)]
 
 Oct 4 
-: [Tasks and applications](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec05/main.pdf) [[recording](https://nyu.zoom.us/rec/share/QCccevh7YigCRkIxwl3z1To5COlzvM0pQ1dvKen2gjhaato15l8bLKwAA58iFFXg.vWrhTaR5FM-Okeg8
-)]
+: [Tasks and applications](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec05/main.pdf) [[recording](https://nyu.zoom.us/rec/share/QCccevh7YigCRkIxwl3z1To5COlzvM0pQ1dvKen2gjhaato15l8bLKwAA58iFFXg.vWrhTaR5FM-Okeg8)]
   : 
 : 1. The landscape of NLP tasks
   2. Evaluation 
