@@ -71,4 +71,4 @@ Oct 10
 : **Section**{: .label .label-purple } Beam search; NLP datasets
   [[slides](https://nyu-cs2590.github.io//course-material/fall2023/section/sec05/sec05.pdf)]
   [[notebook](https://nyu-cs2590.github.io//course-material/fall2023/section/sec05/sec05_datasets.ipynb)]
-  [[recording]()]
+  [[recording](https://nyu.zoom.us/rec/share/4BQVxL0Ky8JUkHVvfOvR-LQXPXhlYPJKfk5Ix2Cp64AhIhWq73ZALM3VJxsXn1zt.6RpAUBoLjcXVBbYS)]
