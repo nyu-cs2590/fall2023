@@ -3,7 +3,7 @@ title: Representation learning
 ---
 
 Oct 11
-: [Pretraining and finetuning (basics)]() [[recording]()]
+: [Pretraining and finetuning (basics)](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec06/main.pdf) [[recording]()]
   : **HW 2 due**{: .label .label-red }
   : **HW 3 out**{: .label .label-green }
 : 1. Data
