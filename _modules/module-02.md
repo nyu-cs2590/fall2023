@@ -5,16 +5,20 @@ title: Representation learning
 Oct 11
 : [Pretraining and finetuning (basics)](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec06/main.pdf) [[recording]()]
   : **HW 2 due**{: .label .label-red }
-  : **HW 3 out**{: .label .label-green }
 : 1. Data
   2. Self-supervised learning
   3. Adaptation / finetuning 
 
 Oct 16           
-: **Section**{: .label .label-purple } Transformer 
+: **Section**{: .label .label-purple } Transformer
   [[slides](https://nyu-cs2590.github.io/course-material/fall2023/section/sec06/sec06.pdf)]
   [[notebook](https://nyu-cs2590.github.io/course-material/fall2023/section/sec06/sec06.ipynb)]
   [[recording](https://nyu.zoom.us/rec/play/PtdsXl0CYwQ-TJYyvl2DsDvi7oNvkrwan-W_5OWPPNtGloXF-6Z8ZLdcGyY33Whg9TXovLHtLMqn1SQU.dqHZZ083AAREzWSq)]
+  **HW 3 out**{: .label .label-green} 
+  [[zip](https://nyu-cs2590.github.io/fall2023/assignments/hw3.zip)]
+  [[pdf](https://nyu-cs2590.github.io/fall2023/assignments/hw3.pdf)]
+  
+
 
 Oct 18 
 : [Pretraining and finetuning (advanced)]() [[recording]()]
