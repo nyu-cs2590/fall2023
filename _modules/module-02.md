@@ -14,7 +14,7 @@ Oct 16
   [[slides](https://nyu-cs2590.github.io/course-material/fall2023/section/sec06/sec06.pdf)]
   [[notebook](https://nyu-cs2590.github.io/course-material/fall2023/section/sec06/sec06.ipynb)]
   [[recording](https://nyu.zoom.us/rec/play/Qq7iMc11LcKU26l2ADI8eWjnX6cK7r6Tm9uEj5Lyl9qIfUuL1fiIQnQJ2oWo0VKJpZtyn56u_Eqjm4J7.hQdGPIdfEPM6gS8x)]
-  : **HW 3 out**{: .label .label-green}  
+  **HW 3 out**{: .label .label-green} 
   [[zip](https://nyu-cs2590.github.io/fall2023/assignments/hw3.zip)]
   [[pdf](https://nyu-cs2590.github.io/fall2023/assignments/hw3.pdf)]
   
