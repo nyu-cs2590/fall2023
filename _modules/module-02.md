@@ -14,7 +14,7 @@ Oct 16
 : **Section**{: .label .label-purple } Transformer 
   [[slides](https://nyu-cs2590.github.io/course-material/fall2023/section/sec06/sec06.pdf)]
   [[notebook](https://nyu-cs2590.github.io/course-material/fall2023/section/sec06/sec06.ipynb)]
-  <!-- [[recording](https://nyu.zoom.us/rec/play/Qq7iMc11LcKU26l2ADI8eWjnX6cK7r6Tm9uEj5Lyl9qIfUuL1fiIQnQJ2oWo0VKJpZtyn56u_Eqjm4J7.hQdGPIdfEPM6gS8x)] -->
+  [[recording](https://nyu.zoom.us/rec/play/PtdsXl0CYwQ-TJYyvl2DsDvi7oNvkrwan-W_5OWPPNtGloXF-6Z8ZLdcGyY33Whg9TXovLHtLMqn1SQU.dqHZZ083AAREzWSq)]
 
 Oct 18 
 : [Pretraining and finetuning (advanced)]() [[recording]()]
