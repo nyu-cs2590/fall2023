@@ -3,7 +3,7 @@ title: Representation learning
 ---
 
 Oct 11
-: [Pretraining and finetuning (basics)](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec06/main.pdf) [[recording]()]
+: [Pretraining and finetuning (basics)](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec06/main.pdf) [[recording](https://nyu.zoom.us/rec/share/atGYXVQKkvQjxGtCFHcOhgWek32GoaWc5Ucnn-slUBUwgHX90H6yQrje12mIpyKL.2GrTpoeRF12aRJmE)]
   : **HW 2 due**{: .label .label-red }
 : 1. Data
   2. Self-supervised learning
@@ -21,11 +21,11 @@ Oct 16
 
 
 Oct 18 
-: [Pretraining and finetuning (advanced)]() [[recording]()]
+: [Pretraining and finetuning (advanced)](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec07/main.pdf) [[recording]()]
   : 
 : 1. Efficient pretraining 
   2. Efficient finetuning 
-  3. Additional reading: [Efficient transformers: a survey](https://arxiv.org/abs/2009.06732)
+  3. Additional reading: [Efficient transformers: a survey](https://arxiv.org/abs/2009.06732), also see papers linked in slides
 
 Oct 23           
 : **Section**{: .label .label-purple } Hugginface tutorial
