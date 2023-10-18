@@ -21,7 +21,7 @@ Oct 16
 
 
 Oct 18 
-: [Pretraining and finetuning (advanced)](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec07/main.pdf) [[recording]()]
+: [Pretraining and finetuning (advanced)](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec07/main.pdf) [[recording](https://nyu.zoom.us/rec/share/9NK1lc0oxc0RyqjrhR0Equ8JuFnPbaY-a66-Ll260wS0CdEaEW9AcdjuUnggItFH.AL01FgZ54OGQCUN2)]
   : 
 : 1. Efficient pretraining 
   2. Efficient finetuning 
