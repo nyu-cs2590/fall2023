@@ -4,10 +4,12 @@ title: NLP via language modeling
 
 Nov 1
 : [Scaling language models]() [[recording]()]
-  : **HW 3 due**{: .label .label-red }
   : **HW 4 out**{: .label .label-green }
 : 1. Scaling laws 
   2. Emergent abilities
+
+Nov 3
+: **HW 3 due**{: .label .label-red }
 
 Nov 6
 : **Section**{: .label .label-purple } Training LLMs 
