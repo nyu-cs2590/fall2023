@@ -28,7 +28,11 @@ Oct 18
   3. Additional reading: [Efficient transformers: a survey](https://arxiv.org/abs/2009.06732), also see papers linked in slides
 
 Oct 23           
-: **Section**{: .label .label-purple } Hugginface tutorial
+: **Section**{: .label .label-purple } Efficient Inference
+  [[slides](https://nyu-cs2590.github.io/course-material/fall2023/section/sec07/sec07.pdf)]
+  [[recording](https://nyu.zoom.us/rec/play/5dL-5BHxkz85ogbJ87f57tfhp5Aogh7wVmSFALbPh0vuIUyvo3bXIY_zn4bdC1xJ3c6SNtuan05GuTQS.-zUy4_tIraigH9vQ)]
+
+
 
 Oct 25
 : [Holistic evaluation]() 
