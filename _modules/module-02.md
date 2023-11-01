@@ -41,5 +41,6 @@ Oct 25
   2. Additional reading: [Holistic evaluation of language models](https://arxiv.org/abs/2211.09110)
 
 Oct 30           
-: **Section**{: .label .label-purple } NLP benchmarks 
-
+: **Section**{: .label .label-purple } Model Evaluation 
+  [[slides](https://nyu-cs2590.github.io/course-material/fall2023/section/sec08/sec08.pdf)]
+  [[notebook](https://nyu-cs2590.github.io/course-material/fall2023/section/sec08/sec08.ipynb)]
