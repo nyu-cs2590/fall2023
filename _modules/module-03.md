@@ -3,10 +3,10 @@ title: NLP via language modeling
 ---
 
 Nov 1
-: [Scaling language models]() [[recording]()]
+: [Scaling language models](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec09/main.pdf) [[recording]()]
   : **HW 4 out**{: .label .label-green }
-: 1. Scaling laws 
-  2. Emergent abilities
+: 1. N-gram language models 
+  2. Scaling and emergent abilities  
 
 Nov 3
 : **HW 3 due**{: .label .label-red }
