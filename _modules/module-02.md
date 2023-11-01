@@ -35,11 +35,10 @@ Oct 23
 
 
 Oct 25
-: [Holistic evaluation]() 
+: [Holistic evaluation](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec08/main.pdf) [[recording](https://nyu.zoom.us/rec/share/E8wZSHLvAVYDq7MIjZukzbpKRhqcWJoZfNfbpsf6CDByA1a0mzZIyapgS0oqCKkp.rUntPNWhNos_bz8w)]
   : **Proposal due on 27th**{: .label .label-red } See [submission instruction](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2023/project/proposal_instruction.md), team [signup](https://forms.gle/CupmzExTrqNetbs8A) and latex [template](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2023/project/DS-GA-1011%20proposal%20template.zip).
-: 1. Behavioral tests 
-  2. Fairness, robustness, privacy
-  3. Additional reading: [Holistic evaluation of language models](https://arxiv.org/abs/2211.09110)
+: 1. Fairness, robustness, privacy
+  2. Additional reading: [Holistic evaluation of language models](https://arxiv.org/abs/2211.09110)
 
 Oct 30           
 : **Section**{: .label .label-purple } NLP benchmarks 
