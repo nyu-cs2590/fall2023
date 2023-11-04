@@ -4,7 +4,7 @@ title: NLP via language modeling
 
 Nov 1
 : [Scaling language models](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec09/main.pdf) [[recording]()]
-  : **HW 4 out**{: .label .label-green }
+ 
 : 1. N-gram language models 
   2. Scaling and emergent abilities  
 
@@ -16,7 +16,7 @@ Nov 6
 
 Nov 8 
 : [Prompt engineering]() 
-  : 
+  :  **HW 4 out**{: .label .label-green }
 
 Nov 13
 : **Section**{: .label .label-purple } Prompting for complex tasks
@@ -29,10 +29,11 @@ Nov 15
 
 Nov 20
 : **Section**{: .label .label-purple } Reinforcement learning basics 
-  : **HW4 due**{: .label .label-red }
 
 Nov 22
 : Fall break (no lecture) 
+: **HW4 due**{: .label .label-red }
+
 
 Nov 27
 : **Section**{: .label .label-purple } Project presentation and report writing 
