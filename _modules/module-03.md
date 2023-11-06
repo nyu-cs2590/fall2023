@@ -13,6 +13,8 @@ Nov 3
 
 Nov 6
 : **Section**{: .label .label-purple } Training LLMs 
+  [[slides](https://nyu-cs2590.github.io/course-material/fall2023/section/sec09/sec09.pdf)]
+  [[notebook](https://nyu-cs2590.github.io/course-material/fall2023/section/sec09/sec09.ipynb)]
 
 Nov 8 
 : [Prompt engineering]() 
