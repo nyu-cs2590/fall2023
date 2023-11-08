@@ -17,7 +17,7 @@ Nov 6
   [[notebook](https://nyu-cs2590.github.io/course-material/fall2023/section/sec09/sec09.ipynb)]
 
 Nov 8 
-: [Prompt engineering](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec10/main.pdf) 
+: [Prompt engineering](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec10/main.pdf) [[recording](https://nyu.zoom.us/rec/share/gYlVq8qvSAwgkhUnjDtYY0P6kbm235PhHgqP0r926wa0OfgrJYvlFpEFpIN6FBq3.--3ghVkQM2Kp-N7d)]
   :  **HW 4 out**{: .label .label-green }
    [[zip](https://github.com/nyu-cs2590/fall2023/blob/main/assignments/hw4.zip)]
   [[pdf](https://github.com/nyu-cs2590/fall2023/blob/main/assignments/hw4.pdf)]
