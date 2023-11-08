@@ -21,6 +21,7 @@ Nov 8
   :  **HW 4 out**{: .label .label-green }
    [[zip](https://github.com/nyu-cs2590/fall2023/blob/main/assignments/hw4.zip)]
   [[pdf](https://github.com/nyu-cs2590/fall2023/blob/main/assignments/hw4.pdf)]
+  [[tex](  https://github.com/nyu-cs2590/fall2023/blob/main/assignments/hw4.tex)]
 
 Nov 13
 : **Section**{: .label .label-purple } Prompting for complex tasks
