@@ -19,7 +19,7 @@ Nov 6
 Nov 8 
 : [Prompt engineering]() 
   :  **HW 4 out**{: .label .label-green }
-   [[zip]([https://nyu-cs2590.github.io/fall2023/assignments/hw3.zip](https://github.com/nyu-cs2590/fall2023/blob/main/assignments/hw4.zip)]
+   [[zip](https://github.com/nyu-cs2590/fall2023/blob/main/assignments/hw4.zip)]
   [[pdf](https://github.com/nyu-cs2590/fall2023/blob/main/assignments/hw4.pdf)]
 
 Nov 13
