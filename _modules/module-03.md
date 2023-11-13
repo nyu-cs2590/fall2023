@@ -24,7 +24,8 @@ Nov 8
   [[tex](  https://github.com/nyu-cs2590/fall2023/blob/main/assignments/hw4.tex)]
 
 Nov 13
-: **Section**{: .label .label-purple } Prompting for complex tasks
+: **Section**{: .label .label-purple } Prompt Engineering and Huffman Code
+[[slides]](https://github.com/nyu-cs2590/course-material/blob/6179359d3156763b491baefa2534b24ed1d2bf05/fall2023/section/sec10/sec10.pdf)
 
 Nov 15
 : [Aligning language models (basics)]() [[recording]()]
