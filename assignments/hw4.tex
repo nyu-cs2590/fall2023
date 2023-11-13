@@ -221,11 +221,20 @@ For cost-control purposes (you only have \$25 free credits), we will use \href{h
 \newpage
 \subsection*{3. Prompt-a-thon!}
 
-In this part, you will compete with your classmates to see who is best at teach llama to add 7-digit numbers reliably! Submit your \texttt{submission.py} to enter the leader board!\\
+In this part, you will compete with your classmates to see who is best at teach llama to add 7-digit numbers reliably! Submit\footnote{Note: while you can use \texttt{prompt.txt} for debugging and local testing, for the final autograder submission, please use string (\textbf{not file}). The reason why is that autograder cannot find \texttt{prompt.txt} in the testing environment. Sorry about the inconvenience!} your \texttt{submission.py} to enter the leader board!\\
 
 The autograder will test your prompt on 30 pairs of 7-digit integer addition. Some pairs are manually designed and some pairs are randomly generated using a random seed that is different from \texttt{addition\_prompting.ipynb}. This will generate 30 API calls, with 1 second wait time between each API call. Since prompting has randomness, we will run the same trial 3 times and report the average performance. In total, each submission will incur 90 API calls. \\
 
 Please keep \texttt{max\_tokens} to at least 50, so that you're not giving the model a prior on the output length. \\ Please also do not try to hack the pre-processing and post-processing functions by including arithmetic operations. The autograder is able to detect the use of arithmetic operations in these functions.
+
+Here's a list of functions you can modify:
+\begin{itemize}
+    \item \texttt{your\_api\_key}
+    \item \texttt{your\_prompt}
+    \item \texttt{your\_config}
+    \item \texttt{your\_pre\_processing} (but no arithmetic operation. e.g., \texttt{f"a+b=\{a+b\}"} is not allowed.)
+    \item \texttt{your\_post\_processing} (but no arithmetic operation. e.g., \texttt{f"a+b=\{a+b\}"} is not allowed.)
+\end{itemize}
 
 \begin{enumerate}[label=\alph*.]
     \item (coding, 5 points) Use prompt to improve test performance. For full credit, either
