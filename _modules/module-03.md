@@ -27,6 +27,7 @@ Nov 13
 : **Section**{: .label .label-purple } Prompt Engineering and Huffman Code
 [[slides](https://github.com/nyu-cs2590/course-material/blob/6179359d3156763b491baefa2534b24ed1d2bf05/fall2023/section/sec10/sec10.pdf)]
 [[recording](https://nyu.zoom.us/rec/play/WSx-gB22ibDAp0p8wqXVIm92iSn7lYnlAdWEhbPGqopUSYa0JtdwgKZH2eaIE3c6PbridQpxGyeGt8Yd.9h1-6Ecs3Mz_bSM0)]
+[[annotated slides](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2023/section/sec10/sec10_annotated.pdf)]
 
 Nov 15
 : [Aligning language models (basics)]() [[recording]()]
