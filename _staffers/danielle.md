@@ -6,4 +6,4 @@ website:
 photo: danielle.jpeg 
 ---
 
-Office hour: Thursday's 1-2pm Room TBD
+Office hour: Thursday 1-2pm (CDS 765)
