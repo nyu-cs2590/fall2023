@@ -6,4 +6,4 @@ website:
 photo: danielle.jpeg 
 ---
 
-Office hour: TBD
+Office hour: Thursday's 1-2pm Room TBD
