@@ -30,8 +30,7 @@ Nov 13
 [[annotated slides](https://nyu-cs2590.github.io/course-material/blob/gh-pages/fall2023/section/sec10/sec10_annotated.pdf)]
 
 Nov 15
-: [Aligning language models (basics)](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec11/main.pdf) [[recording](https://nyu.zoom.us/rec/share/9tMC1IAKXR5pLBMY0toITvA9AY6Y2_tKv7xbk2f8JCQ3aotV2sR0jgH5p4VhS0Pl.YUXyYLelmQmTjNq9
-)]
+: [Aligning language models (basics)](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec11/main.pdf) [[recording](https://nyu.zoom.us/rec/share/9tMC1IAKXR5pLBMY0toITvA9AY6Y2_tKv7xbk2f8JCQ3aotV2sR0jgH5p4VhS0Pl.YUXyYLelmQmTjNq9)]
   : 
 : 1. Why do we need alignment?
   2. Basic alignment techniques
