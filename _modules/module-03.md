@@ -38,7 +38,10 @@ Nov 15
 Nov 20
 : **Section**{: .label .label-purple } Reinforcement learning basics 
 [[slides](https://nyu-cs2590.github.io/course-material/fall2023/section/sec11/sec11.pdf)]
-[[recording]()]
+[[recording](https://nyu.zoom.us/rec/play/fAMjB2TpC7dtcVfHuHm65EIA8aDWv4sF5z84Pfk3TLVo8Rz6Ga_AsWRd1soYmbQD5_TFADT_HrXaAH2i.RtfBlk2Pnd9Zh1PU)]
+
+
+
 
 Nov 22
 : Fall break (no lecture) 
