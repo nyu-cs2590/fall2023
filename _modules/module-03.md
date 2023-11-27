@@ -40,16 +40,13 @@ Nov 20
 [[slides](https://nyu-cs2590.github.io/course-material/fall2023/section/sec11/sec11.pdf)]
 [[recording](https://nyu.zoom.us/rec/play/fAMjB2TpC7dtcVfHuHm65EIA8aDWv4sF5z84Pfk3TLVo8Rz6Ga_AsWRd1soYmbQD5_TFADT_HrXaAH2i.RtfBlk2Pnd9Zh1PU)]
 
-
-
-
 Nov 22
 : Fall break (no lecture) 
 : **HW4 due**{: .label .label-red }
 
-
 Nov 27
 : **Section**{: .label .label-purple } Project presentation and report writing 
+[[slides](https://nyu-cs2590.github.io/course-material/fall2023/section/sec12/sec12.pdf)]
 
 Nov 29
 : [Aligning language models (advanced)]() [[recording]()]
