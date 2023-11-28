@@ -47,7 +47,7 @@ Nov 22
 Nov 27
 : **Section**{: .label .label-purple } Project presentation and report writing 
 [[slides](https://nyu-cs2590.github.io/course-material/fall2023/section/sec12/sec12.pdf)]
-[[recording](https://nyu.zoom.us/recording/detail?meeting_id=E%2BVvIEUURbyAAH0CTKfvRg%3D%3D]]
+[[recording](https://nyu.zoom.us/recording/detail?meeting_id=E%2BVvIEUURbyAAH0CTKfvRg%3D%3D)]
 
 Nov 29
 : [Aligning language models (advanced)]() [[recording]()]
