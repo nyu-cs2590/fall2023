@@ -45,7 +45,25 @@ Students are expected to have a solid mathematics background and strong programm
 ## Grading
 
 - **Assignments (60%)**: There will be four assignments, each counting 15%.
-- **Project (40%)**: You are required to complete a (group) project applying techniques learned in this course.
+- **Project (40%)**: You are required to complete a (group) project applying techniques learned in this course. All group members will receive the same grade.
+  - **Proposal (5%)**
+  - **Presentation (10%)**: We will grade it based on your 3-minute presentation and 2-minute Q&A during the class. 
+    - Clarity (6%): Is each component of the project clearly communicated?
+      - Problem statement (2%)
+      - Approach (2%)
+      - Evaluation and results (2%)
+    - Style (2%): Are the text, figures, tables legible and the speaker articulated?
+    - Q&A (2%): Are the questions answered satisfactorily?
+  - **Report (25%)**:
+    - Format (2%): Is it following the given template and within the page limit?
+    - Clarity (9%): Is each component described precisely and concisely?
+      - Problem (3%)
+      - Approach (3%)
+      - Evaluation and results (3%)
+    - Literature survey (3%): Is the relevant literature covered sufficiently?
+    - Evaluation (4%): Is the evaluation justified and sufficient?
+    - Contribution (3%): Does the project make a respectable contribution?
+    - Effort (4%): Does the project demonstrate typical effort expected from the respective group size?
 
 ## Coursework
 ### Assignments

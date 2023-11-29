@@ -42,13 +42,31 @@ Students are expected to have a solid mathematics background and strong programm
 ## Grading
 
 - **Assignments (60%)**: There will be four assignments, each counting 15%.
-- **Project (40%)**: You are required to complete a (group) project applying techniques learned in this course.
+- **Project (40%)**: You are required to complete a (group) project applying techniques learned in this course. All group members will receive the same grade.
+  - **Proposal (5%)**
+  - **Presentation (10%)**: We will grade it based on your 3-minute presentation and 2-minute Q&A during the class. 
+    - Clarity (6%): Is each component of the project clearly communicated?
+      - Problem statement (2%)
+      - Approach (2%)
+      - Evaluation and results (2%)
+    - Style (2%): Are the text, figures, tables legible and the speaker articulated?
+    - Q&A (2%): Are the questions answered satisfactorily?
+  - **Report (25%)**:
+    - Format (2%): Is it following the given template and within the page limit?
+    - Clarity (9%): Is each component described precisely and concisely?
+      - Problem (3%)
+      - Approach (3%)
+      - Evaluation and results (3%)
+    - Literature survey (3%): Is the relevant literature covered sufficiently?
+    - Evaluation (4%): Is the evaluation justified and sufficient?
+    - Contribution (3%): Does the project make a respectable contribution?
+    - Effort (4%): Does the project demonstrate typical effort expected from the respective group size?
 
 ## Coursework
 ### Assignments
 The assignments will contain both written problems and programming problems (in Python).
 
-- **Late policy**: All assignments are due at noon 12:00pm (New York time) on the due date (which will be announced with the assignment). You have **8 late days** in total that can be distributed among the assignments. You may use a maximum of 7 late days for each assignment, i.e. we will not accept submissions a week after the deadline. Once you have used all 8 late days, each additional late day will incur a 5\% penalty on the assignment, e.g., if you are late for two days (beyond the legitimate 8 late days) and get 80 points on the assignment, you final points will be 80-80*(5\% + 5\%)=72.
+- **Late policy**: All assignments are due at noon 12:00pm (New York time) on the due date (which will be announced with the assignment). You have **8 late days** in total that can be distributed among the assignments. You may use a maximum of 7 late days for each assignment, i.e. we will not accept submissions a week after the deadline. Once you have used all 8 late days, each additional late day will incur a 5% penalty on the assignment, e.g., if you are late for two days (beyond the legitimate 8 late days) and get 80 points on the assignment, you final points will be 80-80*(5% + 5%)=72.
 - **Collaboration policy**: You may discuss problems with your classmates. However, you must write up the homework solutions and the code from scratch, without referring to notes from your joint session. In the submission, you must write down the names of any person with whom you discussed the problem; this will not affect your grade.
 - **Submission**: Assignments are submitted through Gradescope. At the beginning of the semester, you will be added to the Gradescope roster through Brightspace. Please do not register on Gradescope separately or change your email; this will cause the rosters will be out-of-sync. 
 - **Grading**: We aim to release grades within two weeks of the submission date. Once the grades are released, you will have one week to submit any regrading requests.
