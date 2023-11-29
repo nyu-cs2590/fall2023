@@ -50,10 +50,10 @@ Nov 27
 [[recording](https://nyu.zoom.us/recording/detail?meeting_id=E%2BVvIEUURbyAAH0CTKfvRg%3D%3D)]
 
 Nov 29
-: [Aligning language models (advanced)]() [[recording]()]
+: [Aligning language models (advanced)](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec12/main.pdf) [[recording]()]
   : 
-: 1. Instruction tuning
-  2. RLHF
+: 1. RL for text generation 
+  2. RL from human feedback
 
 Dec 4
 : **Section**{: .label .label-purple } RLHF and its extensions 
