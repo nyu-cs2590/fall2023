@@ -50,7 +50,8 @@ Nov 27
 [[recording](https://nyu.zoom.us/recording/detail?meeting_id=E%2BVvIEUURbyAAH0CTKfvRg%3D%3D)]
 
 Nov 29
-: [Aligning language models (advanced)](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec12/main.pdf) [[recording]()]
+: [Aligning language models (advanced)](https://nyu-cs2590.github.io/course-material/fall2023/lecture/lec12/main.pdf) [[recording](https://nyu.zoom.us/rec/share/fHpPUBXyDGZlVfQAnCK-HWqZA72fBK3aVicHGMYFuYshC_2Pv662bT5nEs_Qyx0.IHo-ENRQDy2P_c_H
+)]
   : 
 : 1. RL for text generation 
   2. RL from human feedback
