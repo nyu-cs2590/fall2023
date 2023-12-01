@@ -60,7 +60,7 @@ Dec 4
 : **Section**{: .label .label-purple } RLHF and its extensions 
 
 Dec 6
-: Guest lecture (TBD)
+: Guest lecture: Aligning Semi-Parametric Language Models by [Victoria Lin](http://victorialin.net)
   : 
 
 Dec 11
