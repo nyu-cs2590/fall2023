@@ -58,8 +58,9 @@ Nov 29
 Dec 4
 : **Section**{: .label .label-purple } RLHF and its extensions 
 [[slides](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2023/section/sec13/sec13.pdf)]
-[[annotated slides](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2023/section/sec13/sec13_annotated.pdf)]
+[[annotated slides](https://nyu-cs2590.github.io/course-material/blob/gh-pages/fall2023/section/sec13/sec13_annotated.pdf)]
 [[recording](https://nyu.zoom.us/rec/play/d7xE1jyb_FEf-msoxfGmLwQxJyqlJx--jIlKSzwCduO4BWMGvKKot5X9mfOCdhyBbCv3pEGJzwTicda-.DjxY_leAMUpIwTli)]
+
 Dec 6
 : Guest lecture: Aligning Semi-Parametric Language Models by [Victoria Lin](http://victorialin.net)
   : 
