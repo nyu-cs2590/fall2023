@@ -67,7 +67,7 @@ Dec 6
 
 Dec 11
 : Final project presentation
-  : 
+[[recording](https://nyu.zoom.us/rec/share/F7MGTg9iXMpzZ1pNwaorsQ8nfjyeGT_DRPTOdD9MK9KFPkxCUhLmFFjftb9B2eg3.UcVvWDK-9-d3ojWR)]
 
 Dec 13
 : Final project presentation
